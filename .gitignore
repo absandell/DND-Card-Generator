@@ -1,0 +1,5 @@
+~*.xlsx
+*.xlsx
+__pycache__/
+output/*
+!output/.gitkeep
